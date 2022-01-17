@@ -1,0 +1,3 @@
+git add . ou git add -a : adc novo arquivo na stage
+git commit -m "nota pessoal do ue esta acontecendo" no caso, enviando o arquivo pro gitHub
+git push origin main: enviando(empurrando) oficialmente o arquivo pro GitHub
